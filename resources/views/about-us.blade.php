@@ -238,116 +238,79 @@
                     <div class="item">
                         <div class="ts-team-wrapper">
                             <div class="team-img-wrapper">
-                                <img alt="" src="assets/images/team/team1.jpg" class="img-responsive">
+                                <img alt="" src="assets/images/no-photo.jpg" class="img-responsive">
                             </div>
                             <div class="ts-team-content">
-                                <h3 class="ts-name">Nats Stenman</h3>
-                                <p class="ts-designation">Business Director</p>
-                                <p class="ts-description">Nats Stenman began his career in construction with boots on the ground</p>
+                                <h3 class="ts-name">Jens Weinberger</h3>
+                                <p class="ts-designation">Managing Director</p>
+                                <!-- p class="ts-description">Nats Stenman began his career in construction with boots on the ground</p>
                                 <div class="team-social-icons">
                                     <a target="_blank" href="#"><i class="fa fa-facebook"></i></a>
                                     <a target="_blank" href="#"><i class="fa fa-twitter"></i></a>
                                     <a target="_blank" href="#"><i class="fa fa-google-plus"></i></a>
                                     <a target="_blank" href="#"><i class="fa fa-linkedin"></i></a>
-                                </div><!--/ social-icons-->
+                                </div -->
                             </div>
-                        </div><!--/ Team wrapper end -->
-                    </div><!-- Team 1 end -->
+                        </div>
+                    </div>
 
                     <div class="item">
                         <div class="ts-team-wrapper">
                             <div class="team-img-wrapper">
-                                <img alt="" src="assets/images/team/team2.jpg" class="img-responsive">
+                                <img alt="" src="assets/images/no-photo.jpg" class="img-responsive">
                             </div>
                             <div class="ts-team-content">
-                                <h3 class="ts-name">Mark Conter</h3>
-                                <p class="ts-designation">Sales Director</p>
-                                <p class="ts-description">Nats Stenman began his career in construction with boots on the ground</p>
-                                <div class="team-social-icons">
-                                    <a target="_blank" href="#"><i class="fa fa-facebook"></i></a>
-                                    <a target="_blank" href="#"><i class="fa fa-twitter"></i></a>
-                                    <a target="_blank" href="#"><i class="fa fa-linkedin"></i></a>
-                                </div><!--/ social-icons-->
-                            </div>
-                        </div><!--/ Team wrapper end -->
-                    </div><!-- Team 2 end -->
-
-                    <div class="item">
-                        <div class="ts-team-wrapper">
-                            <div class="team-img-wrapper">
-                                <img alt="" src="assets/images/team/team3.jpg" class="img-responsive">
-                            </div>
-                            <div class="ts-team-content">
-                                <h3 class="ts-name">Angela Lyouer</h3>
-                                <p class="ts-designation">Business Dev. Manager</p>
-                                <p class="ts-description">Nats Stenman began his career in construction with boots on the ground</p>
-                                <div class="team-social-icons">
-                                    <a target="_blank" href="#"><i class="fa fa-twitter"></i></a>
-                                    <a target="_blank" href="#"><i class="fa fa-google-plus"></i></a>
-                                    <a target="_blank" href="#"><i class="fa fa-linkedin"></i></a>
-                                </div><!--/ social-icons-->
-                            </div>
-                        </div><!--/ Team wrapper end -->
-                    </div><!-- Team 3 end -->
-
-                    <div class="item">
-                        <div class="ts-team-wrapper">
-                            <div class="team-img-wrapper">
-                                <img alt="" src="assets/images/team/team4.jpg" class="img-responsive">
-                            </div>
-                            <div class="ts-team-content">
-                                <h3 class="ts-name">Dave Clarkte</h3>
-                                <p class="ts-designation">Regional Manager</p>
-                                <p class="ts-description">Nats Stenman began his career in construction with boots on the ground</p>
+                                <h3 class="ts-name">Gyula Textor</h3>
+                                <p class="ts-designation">Managing Director</p>
+                                <!-- p class="ts-description">Nats Stenman began his career in construction with boots on the ground</p>
                                 <div class="team-social-icons">
                                     <a target="_blank" href="#"><i class="fa fa-facebook"></i></a>
                                     <a target="_blank" href="#"><i class="fa fa-twitter"></i></a>
                                     <a target="_blank" href="#"><i class="fa fa-google-plus"></i></a>
                                     <a target="_blank" href="#"><i class="fa fa-linkedin"></i></a>
-                                </div><!--/ social-icons-->
+                                </div -->
                             </div>
-                        </div><!--/ Team wrapper end -->
-                    </div><!-- Team 4 end -->
+                        </div>
+                    </div>
 
                     <div class="item">
                         <div class="ts-team-wrapper">
                             <div class="team-img-wrapper">
-                                <img alt="" src="assets/images/team/team5.jpg" class="img-responsive">
+                                <img alt="" src="assets/images/no-photo.jpg" class="img-responsive">
                             </div>
                             <div class="ts-team-content">
-                                <h3 class="ts-name">Ayesha Stewart</h3>
-                                <p class="ts-designation">Senior Recruiter</p>
-                                <p class="ts-description">Nats Stenman began his career in construction with boots on the ground</p>
-                                <div class="team-social-icons">
-                                    <a target="_blank" href="#"><i class="fa fa-twitter"></i></a>
-                                    <a target="_blank" href="#"><i class="fa fa-google-plus"></i></a>
-                                    <a target="_blank" href="#"><i class="fa fa-linkedin"></i></a>
-                                </div><!--/ social-icons-->
-                            </div>
-                        </div><!--/ Team wrapper end -->
-                    </div><!-- Team 5 end -->
-
-                    <div class="item">
-                        <div class="ts-team-wrapper">
-                            <div class="team-img-wrapper">
-                                <img alt="" src="assets/images/team/team6.jpg" class="img-responsive">
-                            </div>
-                            <div class="ts-team-content">
-                                <h3 class="ts-name">Elsie Gaeta</h3>
-                                <p class="ts-designation">Marketing Specialist</p>
-                                <p class="ts-description">Nats Stenman began his career in construction with boots on the ground</p>
+                                <h3 class="ts-name">Lion Wunderlich</h3>
+                                <p class="ts-designation">Project Manager</p>
+                                <!-- p class="ts-description">Nats Stenman began his career in construction with boots on the ground</p>
                                 <div class="team-social-icons">
                                     <a target="_blank" href="#"><i class="fa fa-facebook"></i></a>
                                     <a target="_blank" href="#"><i class="fa fa-twitter"></i></a>
                                     <a target="_blank" href="#"><i class="fa fa-google-plus"></i></a>
                                     <a target="_blank" href="#"><i class="fa fa-linkedin"></i></a>
-                                </div><!--/ social-icons-->
+                                </div -->
                             </div>
-                        </div><!--/ Team wrapper end -->
-                    </div><!-- Team 6 end -->
+                        </div>
+                    </div>
 
-                </div><!-- Team slide end -->
-
+                    <div class="item">
+                        <div class="ts-team-wrapper">
+                            <div class="team-img-wrapper">
+                                <img alt="" src="assets/images/no-photo.jpg" class="img-responsive">
+                            </div>
+                            <div class="ts-team-content">
+                                <h3 class="ts-name">Jens Weinberger</h3>
+                                <p class="ts-designation">Managing Director</p>
+                                <!-- p class="ts-description">Nats Stenman began his career in construction with boots on the ground</p>
+                                <div class="team-social-icons">
+                                    <a target="_blank" href="#"><i class="fa fa-facebook"></i></a>
+                                    <a target="_blank" href="#"><i class="fa fa-twitter"></i></a>
+                                    <a target="_blank" href="#"><i class="fa fa-google-plus"></i></a>
+                                    <a target="_blank" href="#"><i class="fa fa-linkedin"></i></a>
+                                </div -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div><!--/ Content row end -->
         </div><!--/ Container end -->
     </section><!--/ Team end -->
